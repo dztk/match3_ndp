@@ -1,5 +1,4 @@
-﻿// B211200026
-// Deniz Toprak
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
