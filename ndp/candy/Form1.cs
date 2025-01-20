@@ -1,5 +1,4 @@
-﻿//DENİZ TOPRAK
-//B211200026
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
