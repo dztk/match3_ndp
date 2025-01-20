@@ -1,6 +1,4 @@
-﻿//deniz toprak
-//B211200026
-//bla bla
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
